@@ -5,13 +5,17 @@ We study the problem of learning the optimal policy in a discounted, infinite-ho
 ## Citation
   
 ```bash
-@inproceedings{
-maity2026corruptiontolerant,
-title={Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates},
-author={Sreejeet Maity and Aritra Mitra},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=L5ZJv73k7x}
+@InProceedings{pmlr-v306-maity26a,
+  title = 	 {Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates},
+  author =       {Maity, Sreejeet and Mitra, Aritra},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {85782--85827},
+  year = 	 {2026},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  url = 	 {https://proceedings.mlr.press/v306/maity26a.html}
 }
 ```
 
